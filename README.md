@@ -1,6 +1,10 @@
 # Calculo-situacion-juridica-para-los-detenido
 BD que permite calcular la situacion juridica de los detenidos en calidad de condenados
 
+-- Autor: Wilson Gutierrez Izquierdo
+-- Fecha de creacion: 01/01/2019
+-- Version 1
+
 Descripción:
 
 Bd que permite calcular la situacion juridica de la PPL que se encuentran en calidad de condenados, solo con registrar la fecha de captura actual y en casos de que haya estado detenido antes por estos mismos hechos, se puede registrar dicha fecha inicial y final, junto con la actual, ademas, debemos registrar la condena y las redenciones de pena reconocidas por la autoridad o calcular en dias, a cuanto equivalen las horas de trabajo, estudio o enseñanza que los detenidos han realizado y aun no han sido reconocidas por la autoridad.
