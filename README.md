@@ -1,8 +1,9 @@
+Autor: Wilson Gutierrez Izquierdo
+Fecha de creacion: 01/01/2019 - Version 1
+
 # Calculo-situacion-juridica-para-los-detenido
 BD que permite calcular la situacion juridica de los detenidos en calidad de condenados
 
-Autor: Wilson Gutierrez Izquierdo
-Fecha de creacion: 01/01/2019 - Version 1
 
 Descripción:
 
